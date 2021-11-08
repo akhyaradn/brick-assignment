@@ -1,4 +1,4 @@
-# Scrape 100 top handphone product Tokopedia
+# Scrape 100 top handphone products Tokopedia
 
 ## Requirement
 * Java 11
